@@ -4,3 +4,6 @@ Steps
   1.Check robots.txt and try to find admin/login panel.
   2.Find cookies and try to alter to login to other user account.
   3.Try to alter the parameters in requests and also find the uniqui IDs...
+    4. Check the system is checking the URL processing from back-end by using --- 
+        Req -X-Original-URL: /test
+        Res - Not found
