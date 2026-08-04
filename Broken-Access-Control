@@ -7,5 +7,5 @@ Steps
     4. Check the system is checking the URL processing from back-end by using --- 
         Req -X-Original-URL: /test
         Res - Not found
-    5. Method [GET, POST, PUT, DELETE]
+    5. Change Requst Method [GET, POST, PUT, DELETE]
 
