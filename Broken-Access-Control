@@ -10,3 +10,4 @@ Steps
     5. Change Requst Method [GET, POST, PUT, DELETE] and try with the admin fuction if possible.
     6. Find username to log in and alter parameters after login.
     7. Alter the Referer Header.
+    8. Try to register same user with upper-lowercases.
