@@ -1,3 +1,4 @@
 Here is the steps to exploit Authentication Vulnerabilites
   1. Brute-force the username and password [ Analyze response code, time and length ]
   2. If IP is blocked or need rate limit bypass add -> X-Forwarded-For: 1.1.1.2
+  3.Check if the login attempts can be reset by loging in registered user's credentials.
